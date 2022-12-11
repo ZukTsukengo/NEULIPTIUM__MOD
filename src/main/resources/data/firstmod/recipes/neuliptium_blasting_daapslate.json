@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:blasting",
+  "cookingtime": 5000,
+  "experience": 20.0,
+  "group": "neuliptium",
+  "ingredient": {
+    "item": "firstmod:deepslate_neuliptium_ore"
+  },
+  "result": "firstmod:neuliptium"
+}

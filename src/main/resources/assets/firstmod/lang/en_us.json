@@ -1,0 +1,11 @@
+{
+  "item.firstmod.neuliptium": "NEULIPTIUM",
+  "item.firstmod.new_neuliptium": "Pure NEULIPTIUM",
+
+  "block.firstmod.neuliptium_block": "Block of NEULIPTIUM",
+  "block.firstmod.new_neuliptium_block": "Block of pure NEULIPTIUM",
+  "block.firstmod.neuliptium_ore": "NEULIPTIUM ore",
+  "block.firstmod.deepslate_neuliptium_ore": "Deepslate NEULIPTIUM ore",
+
+  "itemGroup.neuliptium_tab" : "NEULIPTIUM ITEMS"
+}

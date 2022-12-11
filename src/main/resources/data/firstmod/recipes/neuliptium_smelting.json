@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:smelting",
+  "cookingtime": 10000,
+  "experience": 10.0,
+  "group": "neuliptium",
+  "ingredient": {
+    "item": "firstmod:neuliptium_ore"
+  },
+  "result": "firstmod:neuliptium"
+}

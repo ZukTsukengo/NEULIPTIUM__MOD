@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:blasting",
+  "cookingtime": 2500,
+  "experience": 30.0,
+  "group": "neuliptium",
+  "ingredient": {
+    "item": "firstmod:neuliptium_block"
+  },
+  "result": "firstmod:new_neuliptium"
+}

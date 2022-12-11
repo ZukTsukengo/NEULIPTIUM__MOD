@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "firstmod:neuliptium_ore",
+    "firstmod:deepslate_neuliptium_ore",
+    "firstmod:neuliptium_block",
+    "firstmod:new_neuliptium_block"
+  ]
+}

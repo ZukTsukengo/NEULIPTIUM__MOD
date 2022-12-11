@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "firstmod:neuliptium_block"
+    }
+  ],
+  "result": {
+    "item": "firstmod:neuliptium",
+    "count": 9
+  }
+}
